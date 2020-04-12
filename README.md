@@ -15,7 +15,7 @@
 
 [Windows版](https://github.com/LSD08KM/115rename/releases)
 
-其他系统请clone源码包运行，并手动安装Python3环境
+其他系统请手动安装Python3环境，clone源码包运行OOF_auto_Rename.py
 
 # 如何使用
 ## 注意事项，必读！
